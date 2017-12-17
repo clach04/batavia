@@ -104,7 +104,7 @@ $ npm install
 
 4. Compile the Batavia library and bundle it’s dependencies
 
-Run the follwing command in the terminal ::
+Run the following command in the terminal ::
 
 $ npm run build
 
